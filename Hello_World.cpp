@@ -1,19 +1,11 @@
 #include <iostream>
-#include <vector>
-#include <STRING>
 
 using namespace std;
 
-int main()
-{
+int main(){
 
-    vector<string> msg{"Hello","C++","World","from","VS code!"};
+    cout<< "Teste Hello World\n by Felipe Pereira Barros\n"<<endl;
 
-    for(const string&word:msg)
-    {
-        cout<<word<<" ";
-    }
-    cout<<endl;
-
-return 0;
-}
+    system("pause");   
+    return 0;
+}  
