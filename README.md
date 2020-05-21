@@ -1,5 +1,3 @@
-# C++
+# C++ Codes
 
- C++ codes
-
-(In this folder I'll include C++ daily learnings)
+In this folder I'll include C++ daily learnings
